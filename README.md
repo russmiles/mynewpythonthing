@@ -1,0 +1,2 @@
+# mynewpythonthing
+My new project
